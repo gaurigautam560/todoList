@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+  color: pink;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  /* ctrl+space for color/any suggestion of any property  */
+  /* ctrl+? for comment */
+}
+
+.hi {
+  font-family: cursive;
+  align-items: center;
+}
+
+.todoInput {
+  color: black;
+  font-size: 38px;
+
+  /* //ftz */
+}
